@@ -127,5 +127,3 @@ while 1:
 			window.update()
 			delCells()
 			paintedCells = []
-
-#window.mainloop()
