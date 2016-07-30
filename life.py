@@ -6,7 +6,7 @@ window = Tk()
 s = 100
 
 #switch
-mode = 0 #0 - console 1 - graph
+mode = 1 #0 - console 1 - graph
 
 begin = time.time()
 
